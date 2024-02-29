@@ -1,6 +1,6 @@
 # TicTacToeSolver
 
-This is an application made with Python to play a game of TicTacToe against the computer, the program always make best move possible. 
+This is an application made with Python to play a game of TicTacToe against the computer, the program always make the best move possible. 
 
 It uses concepts as Minimax algorithm and Alpha-Beta Pruning to respectively assure a complete and fast answer. 
 
